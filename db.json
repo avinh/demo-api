@@ -2,5 +2,9 @@
   "login": {
     "username": "admin",
     "email": "admin@gmail.com"
+  },
+    "me": {
+    "username": "admin",
+    "email": "admin@gmail.com"
   }
 }
