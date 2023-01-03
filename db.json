@@ -1,10 +1,11 @@
 {
   "login": {
     "username": "admin",
-    "email": "admin@gmail.com"
+    "email": "admin@gmail.com",
+    "token": "abcxyz"
   },
-    "me": {
-    "username": "admin",
-    "email": "admin@gmail.com"
+  "me": {
+      "username": "admin",
+      "email": "admin@gmail.com"
   }
 }
