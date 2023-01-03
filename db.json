@@ -1,15 +1,11 @@
 {
   "login": {
-    "data":{
       "username": "admin",
       "email": "admin@gmail.com",
       "token": "abcxyz"
-    }
   },
   "me": {
-    "data": {
         "username": "admin",
         "email": "admin@gmail.com"
-    }
-  }
+   }
 }
